@@ -14,8 +14,12 @@
   "contributes": {
     "commands": [
       {
-        "command": "name-it.helloWorld",
-        "title": "Hello World"
+        "command": "name-it.setup-provider",
+        "title": "Name it: Setup provider"
+      },
+      {
+        "command": "name-it.write",
+        "title": "Name it: Write"
       }
     ]
   },
